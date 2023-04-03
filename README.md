@@ -5,7 +5,7 @@ Projeto desenvolvido com React, Java Script e CSS e integração com o Firebase.
 ***
 <div align="center">
   
-  Acesse o projeto: [aqui](https://code-girlsio.web.app/). 
+  Acesse o projeto: [aqui](https://tiktok---jornada-8327c.web.app/). 
   <br>
   <br>
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
